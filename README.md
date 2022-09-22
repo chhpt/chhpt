@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 柴禾</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://iorigina.com](https://iorigina.com)
+- 👨‍💻 All of my projects are available at [https://chaihe.me](https://chaihe.me)
 
-- 📝 I regularly write articles on [https://iorigina.com](https://iorigina.com)
+- 📝 I regularly write articles on [https://chaihe.me](https://chaihe.me)
 
 - 📫 How to reach me **cwuyiyang@gmail.com**
 
