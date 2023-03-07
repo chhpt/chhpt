@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://chaihe.me](https://chaihe.me)
 
-- 📫 How to reach me **cwuyiyang@gmail.com**
+- 📫 How to reach me **cwuyiqing@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
