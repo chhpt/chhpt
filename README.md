@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 柴禾</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://chaihe.me](https://chaihe.me)
+- 👨‍💻 All of my projects are available at [https://changhe.dev](https://changhe.dev)
 
-- 📝 I regularly write articles on [https://chaihe.me](https://chaihe.me)
+- 📝 I regularly write articles on [https://changhe.dev](https://changhe.dev)
 
 - 📫 How to reach me **cwuyiqing@gmail.com**
 
